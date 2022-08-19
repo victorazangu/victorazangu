@@ -1,7 +1,12 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=victorazangu&left_color=green&right_color=red)
 
 
+- 💬 Hey there, You can contact me [here](https://www.linkedin.com/in/victor-shem-7a13821a3/) 👋 :wink:
 
+  
+- 📫 Or here:
+                                       🏛️: [Email](victorsazangu@gmail.com)
+- 💬  Atleast check this out :point_up:
 
 
 
