@@ -2,10 +2,10 @@
 
 
 
-# Software Engineer
+# :point_right: Software Engineer
 
 
-# Fullstack Developer
+# :point_right: Fullstack Developer
 
 
 
