@@ -5,7 +5,7 @@
 
   
 - 📫 Or here:
-                                       🏛️: [Email](victorsazangu@gmail.com)
+                                         💬 : [Email](victorsazangu@gmail.com)
 - 💬  Atleast check this out :point_up:
 
 
