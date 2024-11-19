@@ -44,7 +44,7 @@ Let’s connect and collaborate!
 
 <div style="display: flex; justify-content: space-between;">
   <img height="185" style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=victorazangu&show_icons=true&theme=radical" />
-  <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorazangu&layout=compact&show_icons=true&theme=radical" />
+  <img  height="185" style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorazangu&layout=compact&show_icons=true&theme=radical" />
 </div>
 
 
